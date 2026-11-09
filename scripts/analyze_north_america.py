@@ -352,7 +352,7 @@ def write_shared_outputs(res: dict, fr: dict, out_dir: Path) -> None:
             lw=1.2, label="United States (OWID US series)")
     ax.set_yscale("log")
     ax.set_xlabel("Year")
-    ax.set_ylabel("(Reported cases + 1) per 100,000 (log scale)")
+    ax.set_ylabel("(Reported cases + 1) per 100 000 (log scale)")
     ax.legend()
     fig.tight_layout()
     save_figure(fig, fig_dir / "fig_cases_per100k.pdf")
