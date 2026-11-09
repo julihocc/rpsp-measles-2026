@@ -1,0 +1,478 @@
+{
+  "access_date": "20261101",
+  "population_access_date": "20261107",
+  "seed": 20261101,
+  "us_series_annotation": [
+    "Data for 2026 is incomplete"
+  ],
+  "per_capita": {
+    "population_source": "OWID population (UN WPP 2024 estimates); WPP 2024 medium-variant projection for years without an estimate",
+    "projected_years": [
+      2024
+    ],
+    "decades_per100k": [
+      {
+        "Country": "Canada",
+        "Period": "1980--1989",
+        "n years": 10,
+        "Median": 10.073324748621836,
+        "Max": 57.0027067987698,
+        "Year of max": 1986
+      },
+      {
+        "Country": "Canada",
+        "Period": "1990--1999",
+        "n years": 10,
+        "Median": 1.8602676649759573,
+        "Max": 21.941137943131608,
+        "Year of max": 1991
+      },
+      {
+        "Country": "Canada",
+        "Period": "2000--2009",
+        "n years": 10,
+        "Median": 0.044251792795854325,
+        "Max": 0.6668436284062438,
+        "Year of max": 2000
+      },
+      {
+        "Country": "Canada",
+        "Period": "2010--2019",
+        "n years": 10,
+        "Median": 0.26233561699409136,
+        "Max": 2.3238013778955673,
+        "Year of max": 2011
+      },
+      {
+        "Country": "Canada",
+        "Period": "2020--2024",
+        "n years": 5,
+        "Median": 0.007727724646951816,
+        "Max": 0.36988177043733284,
+        "Year of max": 2024
+      },
+      {
+        "Country": "Mexico",
+        "Period": "1980--1989",
+        "n years": 10,
+        "Median": 10.931487281354787,
+        "Max": 44.17511246377396,
+        "Year of max": 1980
+      },
+      {
+        "Country": "Mexico",
+        "Period": "1990--1999",
+        "n years": 10,
+        "Median": 0.1698145309890413,
+        "Max": 83.04981745388835,
+        "Year of max": 1990
+      },
+      {
+        "Country": "Mexico",
+        "Period": "2000--2009",
+        "n years": 10,
+        "Median": 0.004333745424638862,
+        "Max": 0.06130612840677797,
+        "Year of max": 2004
+      },
+      {
+        "Country": "Mexico",
+        "Period": "2010--2019",
+        "n years": 10,
+        "Median": 0.0,
+        "Max": 0.004013687863666711,
+        "Year of max": 2018
+      },
+      {
+        "Country": "Mexico",
+        "Period": "2020--2024",
+        "n years": 5,
+        "Median": 0.0,
+        "Max": 0.1545752869305735,
+        "Year of max": 2020
+      },
+      {
+        "Country": "United States",
+        "Period": "1980--1989",
+        "n years": 10,
+        "Median": 1.356284772515009,
+        "Max": 7.257603107181227,
+        "Year of max": 1989
+      },
+      {
+        "Country": "United States",
+        "Period": "1990--1999",
+        "n years": 10,
+        "Median": 0.14966622793785977,
+        "Max": 10.966424030950023,
+        "Year of max": 1990
+      },
+      {
+        "Country": "United States",
+        "Period": "2000--2009",
+        "n years": 10,
+        "Median": 0.020817563839714767,
+        "Max": 0.045906105782587206,
+        "Year of max": 2008
+      },
+      {
+        "Country": "United States",
+        "Period": "2010--2019",
+        "n years": 9,
+        "Median": 0.05764634346054483,
+        "Max": 0.2064278110787652,
+        "Year of max": 2014
+      },
+      {
+        "Country": "United States",
+        "Period": "2020--2024",
+        "n years": 3,
+        "Median": 0.03522794357345214,
+        "Max": 0.375622919792905,
+        "Year of max": 2020
+      },
+      {
+        "Country": "United States (US series)",
+        "Period": "1980--1989",
+        "n years": 10,
+        "Median": 1.3591028846797055,
+        "Max": 7.146303636675892,
+        "Year of max": 1989
+      },
+      {
+        "Country": "United States (US series)",
+        "Period": "1990--1999",
+        "n years": 10,
+        "Median": 0.1502200181435594,
+        "Max": 10.975106868662571,
+        "Year of max": 1990
+      },
+      {
+        "Country": "United States (US series)",
+        "Period": "2000--2009",
+        "n years": 10,
+        "Median": 0.020817563839714767,
+        "Max": 0.045906105782587206,
+        "Year of max": 2008
+      },
+      {
+        "Country": "United States (US series)",
+        "Period": "2010--2019",
+        "n years": 10,
+        "Median": 0.05849175684939899,
+        "Max": 0.3771573284470953,
+        "Year of max": 2019
+      },
+      {
+        "Country": "United States (US series)",
+        "Period": "2020--2024",
+        "n years": 5,
+        "Median": 0.017177261742427074,
+        "Max": 0.08250668247676121,
+        "Year of max": 2024
+      }
+    ]
+  },
+  "association": [
+    {
+      "Country": "Canada",
+      "MCV1 lag (y)": 0,
+      "n": 38,
+      "rho": -0.08140017537479316,
+      "ci_low": -0.47385333424788934,
+      "ci_high": 0.4469187871104494,
+      "n_block_starts": 36,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Canada",
+      "MCV1 lag (y)": 1,
+      "n": 37,
+      "rho": -0.0692569076102516,
+      "ci_low": -0.46509989412398556,
+      "ci_high": 0.5253866422836453,
+      "n_block_starts": 35,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Mexico",
+      "MCV1 lag (y)": 0,
+      "n": 45,
+      "rho": -0.6115556816727103,
+      "ci_low": -0.7723403468209795,
+      "ci_high": -0.17727791801019674,
+      "n_block_starts": 43,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Mexico",
+      "MCV1 lag (y)": 1,
+      "n": 44,
+      "rho": -0.7959849196678199,
+      "ci_low": -0.8899292705362849,
+      "ci_high": -0.5266560914671127,
+      "n_block_starts": 42,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "United States",
+      "MCV1 lag (y)": 0,
+      "n": 42,
+      "rho": -0.0068304836712881345,
+      "ci_low": -0.42502229948098086,
+      "ci_high": 0.43371078911374045,
+      "n_block_starts": 37,
+      "years_never_resampled": [
+        2020,
+        2021,
+        2023
+      ]
+    },
+    {
+      "Country": "United States",
+      "MCV1 lag (y)": 1,
+      "n": 41,
+      "rho": 0.08134234705166603,
+      "ci_low": -0.40119694799738176,
+      "ci_high": 0.4908612414009108,
+      "n_block_starts": 36,
+      "years_never_resampled": [
+        2020,
+        2021,
+        2023
+      ]
+    },
+    {
+      "Country": "United States (US series)",
+      "MCV1 lag (y)": 0,
+      "n": 45,
+      "rho": -0.004451893122244599,
+      "ci_low": -0.42333701121263523,
+      "ci_high": 0.42548594052879973,
+      "n_block_starts": 43,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "United States (US series)",
+      "MCV1 lag (y)": 1,
+      "n": 44,
+      "rho": 0.13108612545242884,
+      "ci_low": -0.3136988732070606,
+      "ci_high": 0.5326059903463076,
+      "n_block_starts": 42,
+      "years_never_resampled": []
+    }
+  ],
+  "robustness": [
+    {
+      "Country": "Canada",
+      "Analysis": "First differences, lag 0",
+      "n": 37,
+      "rho": -0.016107097337471475,
+      "ci_low": -0.3211168124736017,
+      "ci_high": 0.35637475395950907,
+      "n_block_starts": 35,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Canada",
+      "Analysis": "First differences, lag 1",
+      "n": 36,
+      "rho": 0.20256128633635564,
+      "ci_low": -0.15111541245247262,
+      "ci_high": 0.52567133480308,
+      "n_block_starts": 34,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Canada",
+      "Analysis": "Levels, lag 0, block length 5",
+      "n": 38,
+      "rho": -0.08140017537479316,
+      "ci_low": -0.4244217183384556,
+      "ci_high": 0.4911078538123004,
+      "n_block_starts": 34,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Canada",
+      "Analysis": "Levels, lag 0, block length 8",
+      "n": 38,
+      "rho": -0.08140017537479316,
+      "ci_low": -0.37289327714641346,
+      "ci_high": 0.46211394523216337,
+      "n_block_starts": 31,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Mexico",
+      "Analysis": "First differences, lag 0",
+      "n": 44,
+      "rho": 0.2676122482380795,
+      "ci_low": -0.02671094154243057,
+      "ci_high": 0.5198961400826314,
+      "n_block_starts": 42,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Mexico",
+      "Analysis": "First differences, lag 1",
+      "n": 43,
+      "rho": -0.34166298944305223,
+      "ci_low": -0.6556997770789684,
+      "ci_high": 0.10425833464118132,
+      "n_block_starts": 41,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Mexico",
+      "Analysis": "Levels, lag 0, block length 5",
+      "n": 45,
+      "rho": -0.6115556816727103,
+      "ci_low": -0.7865062763674152,
+      "ci_high": -0.03445753392699336,
+      "n_block_starts": 41,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "Mexico",
+      "Analysis": "Levels, lag 0, block length 8",
+      "n": 45,
+      "rho": -0.6115556816727103,
+      "ci_low": -0.8042025815750872,
+      "ci_high": 0.11438507088209637,
+      "n_block_starts": 38,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "United States",
+      "Analysis": "First differences, lag 0",
+      "n": 39,
+      "rho": 0.07020864479460086,
+      "ci_low": -0.13671423080174697,
+      "ci_high": 0.43165506754640426,
+      "n_block_starts": 36,
+      "years_never_resampled": [
+        2021
+      ]
+    },
+    {
+      "Country": "United States",
+      "Analysis": "First differences, lag 1",
+      "n": 38,
+      "rho": 0.049413184271550344,
+      "ci_low": -0.28593335536602327,
+      "ci_high": 0.48439258133801993,
+      "n_block_starts": 35,
+      "years_never_resampled": [
+        2021
+      ]
+    },
+    {
+      "Country": "United States",
+      "Analysis": "Levels, lag 0, block length 5",
+      "n": 42,
+      "rho": -0.0068304836712881345,
+      "ci_low": -0.5267777562087694,
+      "ci_high": 0.43795727737899076,
+      "n_block_starts": 35,
+      "years_never_resampled": [
+        2020,
+        2021,
+        2023
+      ]
+    },
+    {
+      "Country": "United States",
+      "Analysis": "Levels, lag 0, block length 8",
+      "n": 42,
+      "rho": -0.0068304836712881345,
+      "ci_low": -0.6100607210361679,
+      "ci_high": 0.34171445221289215,
+      "n_block_starts": 32,
+      "years_never_resampled": [
+        2020,
+        2021,
+        2023
+      ]
+    },
+    {
+      "Country": "United States (US series)",
+      "Analysis": "First differences, lag 0",
+      "n": 44,
+      "rho": 0.060234805031785625,
+      "ci_low": -0.15173645622625342,
+      "ci_high": 0.36453358498906685,
+      "n_block_starts": 42,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "United States (US series)",
+      "Analysis": "First differences, lag 1",
+      "n": 43,
+      "rho": 0.23913580970804252,
+      "ci_low": -0.15072283784322582,
+      "ci_high": 0.578435042065233,
+      "n_block_starts": 41,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "United States (US series)",
+      "Analysis": "Levels, lag 0, block length 5",
+      "n": 45,
+      "rho": -0.004451893122244599,
+      "ci_low": -0.5334551137446795,
+      "ci_high": 0.4232588129473156,
+      "n_block_starts": 41,
+      "years_never_resampled": []
+    },
+    {
+      "Country": "United States (US series)",
+      "Analysis": "Levels, lag 0, block length 8",
+      "n": 45,
+      "rho": -0.004451893122244599,
+      "ci_low": -0.5781219598567701,
+      "ci_high": 0.3579147486919706,
+      "n_block_starts": 38,
+      "years_never_resampled": []
+    }
+  ],
+  "power": {
+    "method": "Fisher z with Bonett-Wright variance for Spearman rho, independent observations",
+    "alpha_two_sided": 0.05,
+    "power": 0.8,
+    "min_detectable_abs_rho_by_n": {
+      "36": 0.4733,
+      "37": 0.4668,
+      "38": 0.4606,
+      "39": 0.4546,
+      "41": 0.4433,
+      "42": 0.4379,
+      "43": 0.4327,
+      "44": 0.4277,
+      "45": 0.4229
+    },
+    "illustration": {
+      "n": 40,
+      "min_detectable_abs_rho": 0.4488
+    }
+  },
+  "mexico_periods": {
+    "1980-1991": {
+      "mcv1_min": 21.0,
+      "mcv1_max": 89.0,
+      "cases_min": 2776,
+      "cases_max": 68782,
+      "cases_median": 8094.0,
+      "n_years": 12
+    },
+    "1992-2024": {
+      "mcv1_min": 73.0,
+      "mcv1_max": 99.0,
+      "cases_min": 0,
+      "cases_max": 533,
+      "cases_median": 0.0,
+      "n_years": 33
+    }
+  }
+}

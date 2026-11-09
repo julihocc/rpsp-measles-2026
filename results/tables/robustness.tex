@@ -1,0 +1,28 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Robustness of the association in Table~\ref{tab:assoc}. First differences, which remove shared long-run trends: year-on-year change in $\log_{10}(1+\text{cases})$ versus the change in MCV1 in the same year (lag 0) or the previous year (lag 1), block length 3. Levels: as in Table~\ref{tab:assoc} with longer bootstrap blocks.}
+\label{tab:robust}
+\begin{tabular}{llrrr}
+\toprule
+Country & Analysis & n & Spearman rho & 95\% block-bootstrap CI \\
+\midrule
+Canada & First differences, lag 0 & 37 & $-0.02$ & $[-0.32, 0.36]$ \\
+Canada & First differences, lag 1 & 36 & $0.20$ & $[-0.15, 0.53]$ \\
+Canada & Levels, lag 0, block length 5 & 38 & $-0.08$ & $[-0.42, 0.49]$ \\
+Canada & Levels, lag 0, block length 8 & 38 & $-0.08$ & $[-0.37, 0.46]$ \\
+Mexico & First differences, lag 0 & 44 & $0.27$ & $[-0.03, 0.52]$ \\
+Mexico & First differences, lag 1 & 43 & $-0.34$ & $[-0.66, 0.10]$ \\
+Mexico & Levels, lag 0, block length 5 & 45 & $-0.61$ & $[-0.79, -0.03]$ \\
+Mexico & Levels, lag 0, block length 8 & 45 & $-0.61$ & $[-0.80, 0.11]$ \\
+United States & First differences, lag 0 & 39 & $0.07$ & $[-0.14, 0.43]$ \\
+United States & First differences, lag 1 & 38 & $0.05$ & $[-0.29, 0.48]$ \\
+United States & Levels, lag 0, block length 5 & 42 & $-0.01$ & $[-0.53, 0.44]$ \\
+United States & Levels, lag 0, block length 8 & 42 & $-0.01$ & $[-0.61, 0.34]$ \\
+United States (US series) & First differences, lag 0 & 44 & $0.06$ & $[-0.15, 0.36]$ \\
+United States (US series) & First differences, lag 1 & 43 & $0.24$ & $[-0.15, 0.58]$ \\
+United States (US series) & Levels, lag 0, block length 5 & 45 & $0.00$ & $[-0.53, 0.42]$ \\
+United States (US series) & Levels, lag 0, block length 8 & 45 & $0.00$ & $[-0.58, 0.36]$ \\
+\bottomrule
+\end{tabular}
+\end{table}

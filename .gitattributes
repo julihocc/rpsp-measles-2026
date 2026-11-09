@@ -1,0 +1,3 @@
+data/** -text
+results/** text eol=lf
+results/**/*.pdf binary

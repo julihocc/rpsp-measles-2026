@@ -1,0 +1,3 @@
+file,bytes,sha256,source
+who_measles_monthly_20261107.xlsx,1400978,9eca717c0f06739a28ba521904303643da6f7396d4c510a65fb650ee4e2352b1,https://immunizationdata.who.int/docs/librariesprovider21/measles-and-rubella/404-table-web-epi-curve-data.xlsx
+who_measles_annual_20261107.csv,351876,ef83b60741cc0bb27da87082fa1934a0fc8c8d38e51f7dca045664b8676d9e37,https://ghoapi.azureedge.net/api/WHS3_62

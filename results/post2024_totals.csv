@@ -1,0 +1,7 @@
+iso3,year,who_annual,who_monthly,first_month,last_month,national,national_source,national_period_end,national_note
+CAN,2025,5072,5075,01,12,,,,
+CAN,2026,,1040,01,09,,,,
+MEX,2025,6579,6592,01,12,6614,"DGE (informe diario, 10 Aug 2026)",2025-12-31,
+MEX,2026,,13506,01,09,12615,"DGE (informe diario, 10 Aug 2026)",2026-08-10,
+USA,2025,,2288,01,12,2289,"CDC (OWID US series, 20261101 snapshot)",,
+USA,2026,,3887,01,09,4852,"CDC (OWID US series, 20261101 snapshot)",,Data for 2026 is incomplete
